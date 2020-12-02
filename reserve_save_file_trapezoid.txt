@@ -1,0 +1,1 @@
+{"isoscelesTrapezoidArrayList":[{"pointA":{"y":0.0,"x":-2.0},"pointB":{"y":2.0,"x":-1.0},"pointC":{"y":2.0,"x":1.0},"pointD":{"y":0.0,"x":2.0},"exists":true},{"pointA":{"y":0.0,"x":-2.0},"pointB":{"y":3.0,"x":-1.0},"pointC":{"y":3.0,"x":1.0},"pointD":{"y":0.0,"x":2.0},"exists":true}]}
